@@ -2,3 +2,4 @@ requests
 phonenumbers
 colorama
 rich  # prettier terminal output, optional but nice
+python-dotenv  # for loading API keys from .env file instead of hardcoding
